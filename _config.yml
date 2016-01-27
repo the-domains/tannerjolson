@@ -1,0 +1,28 @@
+name: tannerjolson
+favicon: null
+layout_spectrum: 0.2873022381681949
+typography_spectrum: 0.9621620753314346
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5969534907490015
+  lightness: 0.13621154730208218
+  saturation: 0.9481604187749326
+  rhythmicContrast: 0.5945149261970073
+purpose: []
